@@ -133,7 +133,55 @@ Ejercicios capitulo 8
 
 ![image](https://user-images.githubusercontent.com/94026628/146940438-ca18ef1d-a9f8-494d-aeae-81850eb46bbb.png)
 
-lucero
+13. Determine el voltaje del punto A al punto B en la figura 8-73
+
+
+![image](https://user-images.githubusercontent.com/94026628/146957900-0b12e6a8-17d1-4c84-8664-c75d9fe52030.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146957913-6f5121d7-e51d-461d-a5e5-8ee93d166389.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146957971-45da05ba-fb7c-4475-a48b-aa5a7a23753f.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958014-bc1b8099-a22e-4423-b18a-dd13c7f526f2.png)
+
+15.La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![image](https://user-images.githubusercontent.com/94026628/146958082-67d951c2-75f9-463d-95d2-309f50e02fec.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958095-4883377e-5d44-4e8c-a17d-10ac206ac04f.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958136-4a4a5df1-4fa2-4df2-8266-efb6b65e69d9.png)
+
+17.Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/94026628/146958178-da85a6a5-b4af-4f23-b70d-85a6a30924b9.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958189-215f36f9-0ba0-4036-882d-343b4e376359.png)
+![image](https://user-images.githubusercontent.com/94026628/146958206-766ab463-b075-4b68-bfbd-83df8b0c0bc2.png)
+
+19.Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+![image](https://user-images.githubusercontent.com/94026628/146958287-e05e986e-e231-46b9-8c8f-db32646cbf12.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958307-0255f62f-fcd8-415d-af67-6becc5549bd5.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958339-1b7c7aec-0923-4752-b5d5-47d47a885b77.png)
+
+21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/94026628/146958409-ce8fbc67-578b-4b8f-897d-b7bb42d493d2.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958430-83058d79-4c51-4bfd-8115-2280bb35533b.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958454-3203b9b0-e71e-4449-9113-7b9468f6c494.png)
+
+23.SECCIÓN 8–6 Teorema de Norton
+
+Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+![image](https://user-images.githubusercontent.com/94026628/146958518-b8ed8658-8f01-45ed-a233-e3855ab8a497.png)
+
+![image](https://user-images.githubusercontent.com/94026628/146958542-f330263b-9880-4e22-8029-5f000b356469.png)
 
 
 ![image](https://user-images.githubusercontent.com/94026628/146941820-7d41af84-142b-4a28-bf0b-1805ea721e31.png)
@@ -151,7 +199,7 @@ lucero
 
 ![image](https://user-images.githubusercontent.com/94026628/146941976-d31f92f3-4fc9-4129-874e-d6d8cdb3f93a.png)
 
-4. Video
+4. Video https://youtu.be/gpHAPatRe98 
 
 5. Conclusiones
 
